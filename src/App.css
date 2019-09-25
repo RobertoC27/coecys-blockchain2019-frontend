@@ -1,22 +1,11 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-}
-
-.App-header {
-  background-color: #282c34;
+#root {
   min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  background-image: linear-gradient(to bottom right, #5bc0be, #05c0a5), 
+  url('./assets/thomas-tucker-KraXdvWzKNw-unsplash.jpg');
+  color: rgba(247, 229, 229, 0.918);
+
 }
 
-.App-link {
-  color: #09d3ac;
+.App {
+  font-family: 'Rubik', 'sans-serif';
 }
